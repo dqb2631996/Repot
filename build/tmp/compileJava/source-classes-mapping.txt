@@ -1,0 +1,10 @@
+DepotManagementSystem/Category.java
+ DepotManagementSystem.Category
+DepotManagementSystem/Product.java
+ DepotManagementSystem.Product
+DepotManagementSystem/StoreHouse.java
+ DepotManagementSystem.StoreHouse
+DepotManagementSystem/Main.java
+ DepotManagementSystem.Main
+DepotManagementSystem/Program.java
+ DepotManagementSystem.Program
